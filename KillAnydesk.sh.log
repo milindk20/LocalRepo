@@ -1,6 +1,0 @@
-Current DateTime: Thursday 01 February 2024 08:25:59 PM IST
-Killing "anydesk" Processes, TOTAL_PROCESSES:  1
-root 632 1 0 20:25 ? 00:00:00 /usr/bin/anydesk --service
-632
-Process killed
-No "anydesk" processes currently running
